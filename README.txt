@@ -32,6 +32,7 @@ Updated connection string to the appsetting.json
 Date : 2023-10-12 12:55:00.000
 created new project with all the settings which are displayed in the lecture
 
+Date : 2023-10-12 13:15:00.000
 Added new controller
 
 Added new view and updated new view of welcome method
